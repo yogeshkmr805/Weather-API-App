@@ -4,3 +4,9 @@
     box-sizing: border-box;
 }
 
+#inpt, #sub{
+    /* position: absolute; */
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
